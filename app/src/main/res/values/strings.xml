@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Word Game</string>
+    <string name="button">Button</string>
+    <string name="play">PLAY</string>
+    <string name="todo">TODO</string>
+    <string name="app_id">ca-app-pub-3853619561663924~1323738964</string>
+    <string name="banner_ad_unit1_id">ca-app-pub-3853619561663924/1998526382</string>
+    <string name="banner_ad_unit2_id">ca-app-pub-3853619561663924/2510759750</string>
+    <string name="inter_ad_unit1_id">ca-app-pub-3853619561663924/3537433797</string>
+    <string name="inter_ad_unit2_id">ca-app-pub-3853619561663924/8884596418</string>
+    <string name="reward_ad_unit_id">ca-app-pub-3853619561663924/9010118299</string>
+</resources>
