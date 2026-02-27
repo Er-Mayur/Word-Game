@@ -1,6 +1,6 @@
 Word-Game  
 
-playstore link:  https://play.google.com/store/apps/details?id=com.ermayurmahajan.wordgame  
+playstore link:  https://play.google.com/store/apps/details?id=com.mayurmahajan.wordgame  
 
 Output:  
 ![Screenshot_2024-07-26-19-52-07-35_4c1e0ba7ced75ba4e8c32b30bef70612](https://github.com/user-attachments/assets/adb0f0fa-50c8-4003-8b7d-5e688d86bd13)
